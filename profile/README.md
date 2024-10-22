@@ -1,3 +1,5 @@
+![fullture](https://github.com/user-attachments/assets/dada6c39-886b-44c0-a394-e09cb90189dc)
+
 # Tech N' Logic<sup>®</sup>
 
 Welcome to **Tech N' Logic<sup>®</sup>**, the flagship software platform from Fulltechware<sup>®</sup>. Our mission is to provide a robust, modular, and customizable solution for businesses and developers, offering a complete ecosystem of tools and services that facilitate software development and integration.
