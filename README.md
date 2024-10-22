@@ -1,4 +1,4 @@
-# Tech N' Logic<sup>®</sup> Repository
+# Tech N' Logic<sup>®</sup>
 
 This repository is dedicated to the development and management of the **Tech N' Logic<sup>®</sup>** platform, the flagship software product of **Fulltechware<sup>®</sup>**. It contains resources, documentation, releases, and updates related to the Tech N' Logic ecosystem. This repository is private and all software is proprietary and copyrighted.
 
