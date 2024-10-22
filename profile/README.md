@@ -18,7 +18,7 @@ Welcome to **Tech N' Logic<sup>®</sup>**, the flagship software platform from F
 
 ## Our Vision
 
-Just as Microsoft has Windows, **Fulltechware<sup>®</sup>** has **Tech N' Logic<sup>®</sup>** as its main product. We are just beginning our journey and intend to expand the platform to offer several solutions and tools that transform the way companies and developers create software.
+Just as Microsoft has Windows, **Fulltechware<sup>®</sup>** has **Tech N' Logic<sup>®</sup>** as its main product. We are just beginning our journey and intend to expand the platform to offer several solutions and tools that transform the way companies and developers create solutions.
 
 ## Technologies Used
 
