@@ -10,11 +10,11 @@ Welcome to **Tech N' Logic<sup>®</sup>**, the flagship software platform from F
 
 ## Core Features
 
-- **Tech N' Logic Core**: The core of the system, providing essential functionality and a modular architecture for customization.
-- **Tech N' Logic Suite**: Additional modules that extend functionality, with options for automation, data analysis, connectivity, and more.
-- **Tech N' Logic Cloud**: Cloud services for integration, agile development, and remote access.
-- **Tech N' Logic SDK**: Tools for developers, facilitating the creation of new modules and integrations.
-- **Tech N' Logic Marketplace**: Extensions and plugins created by the community, further expanding the ecosystem.
+- **Tech N' Core**: The core of the system, providing essential functionality and a modular architecture for customization.
+- **Tech N' Suite**: Additional modules that extend functionality, with options for automation, data analysis, connectivity, and more.
+- **Tech N' Cloud**: Cloud services for integration, agile development, and remote access.
+- **Tech N' Tools**: SDKs for developers, facilitating the creation of new modules and integrations.
+- **Tech N' Market**: Marketplace with extensions and plugins created by the community, further expanding the ecosystem.
 
 ## Our Vision
 
