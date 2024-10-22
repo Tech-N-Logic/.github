@@ -1,6 +1,6 @@
 # Tech N' Logic<sup>®</sup>
 
-This repository is dedicated to the development and management of the **Tech N' Logic<sup>®</sup>** platform, the flagship software product of **Fulltechware<sup>®</sup>**. It contains resources, documentation, releases, and updates related to the Tech N' Logic ecosystem. This repository is private and all software is proprietary and copyrighted.
+This repository is dedicated to the development and management of the **Tech N' Logic<sup>®</sup>** platform, the flagship software product of **Fulltechware<sup>®</sup>**. It contains resources, documentation, releases, and updates related to the **Tech N' Logic<sup>®</sup>** ecosystem. This repository is private and all software is proprietary and copyrighted.
 
 ## Repository Structure
 
@@ -9,7 +9,7 @@ The repository's directory and file structure includes:
 - **/.github**: Contains GitHub-specific configurations, such as issue and pull request templates.
 - **.gitignore**: File to ignore specific files and directories during commits.
 - **LICENSE**: Software license file, stating that all rights are reserved and the software is proprietary.
-- **/profile/README.md**: Description displayed on the organization's GitHub profile, explaining the vision and features of Tech N' Logic.
+- **/profile/README.md**: Description displayed on the organization's GitHub profile, explaining the vision and features of **Tech N' Logic<sup>®</sup>**.
 
 ## About Tech N' Logic<sup>®</sup>
 
