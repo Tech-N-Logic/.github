@@ -15,6 +15,11 @@ Welcome to **Tech N' Logic<sup>®</sup>**, the flagship software platform from F
 - **Tech N' Cloud**: Cloud services for integration, agile development, and remote access.
 - **Tech N' Tools**: SDKs for developers, facilitating the creation of new modules and integrations.
 - **Tech N' Market**: Marketplace with extensions and plugins created by the community, further expanding the ecosystem.
+- **Tech N' Trade**: A B2B platform designed to streamline business transactions, enabling efficient communication, secure exchanges, and collaborative workflows. With Tech N' Trade, businesses can optimize supply chains, manage vendor relationships, and grow their networks with confidence.
+- **Tech N' Business**: An integrated ERP/CRM platform tailored for modern businesses. It combines enterprise resource planning and customer relationship management in one seamless system, empowering organizations to manage operations, enhance customer engagement, and drive growth.
+- **Tech Bank**: A comprehensive financial platform and mobile app offering banking services, simplifing payments, transfers, and financial management, providing users with a secure and intuitive way to handle their finances.
+  - **FullTech**: A centralized cryptocurrency exchange (CEX) platform, similar to Binance, offering a secure and efficient marketplace for trading digital assets. FullTech combines user-friendly interfaces with advanced trading tools to cater to both beginners and experts.
+  - **FullChain**: The proprietary blockchain of FullTech, supporting decentralized applications and secure transactions. With its native token, **TECH**, FullChain provides a scalable and efficient foundation for innovative blockchain solutions.
 
 ## Our Vision
 
