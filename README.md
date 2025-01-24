@@ -40,4 +40,5 @@ This project is currently not open for public contributions due to its proprieta
 To learn more about **Tech N' Logic<sup>®</sup>** or to contact our team, please visit the [official Fulltechware<sup>®</sup> website](https://fulltechware.com).
 
 ---
+
 © 2024 Fulltechware<sup>®</sup>. All rights reserved.
