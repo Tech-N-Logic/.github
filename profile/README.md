@@ -29,10 +29,10 @@ Welcome to **Tech N' Logic<sup>®</sup>**, the flagship software platform from F
 
 Our development stack covers several modern technologies, including:
 
-- **Programming Languages**: C, C++, C#, JavaScript, TypeScript, Go, PHP, Java, and more.
-- **Frameworks and Libraries**: React, Angular, Vue.js, NestJS, .NET, Spring Boot, Electron, and others.
-- **Databases**: MySQL, SQLite, SQL, among others.
-- **Infrastructure and DevOps**: Shell Script, Docker, Kubernetes.
+- **Programming Languages**: JavaScript, TypeScript, PHP, Go, Java, and more.
+- **Frameworks and Libraries**: Angular, NestJS, SpringBoot, Symfony, and others.
+- **Databases**: MongoDB, SQLite, PostgreSQL, among others.
+- **Infrastructure and DevOps**: Linux/ShellScript, Docker, Cloud.
 
 <!--## Contribute to Tech N' Logic<sup>®</sup>
 
