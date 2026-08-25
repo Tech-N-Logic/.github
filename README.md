@@ -25,11 +25,11 @@ This software is licensed under a [Proprietary License](LICENSE), with all right
 
 Our development stack covers a wide range of modern technologies, such as:
 
-- **Programming Languages**: C, C++, C#, JavaScript, TypeScript, Go, PHP, Java.
+- **Programming Languages**: JavaScript, TypeScript, Go, PHP, Java.
 
-- **Frameworks and Libraries**: React, Angular, Vue.js, .NET, Spring Boot, Electron.
-- **Database**: MySQL, SQLite, SQL.
-- **DevOps and Infrastructure**: Docker, Kubernetes, Shell Script.
+- **Frameworks and Libraries**: Angular, Vue.js, Electron, Spring Boot, Symfony and more.
+- **Database**: MongoDB, SQLite, PostgreSQL.
+- **DevOps and Infrastructure**: Docker, Linux, Shell Script.
 
 ## Contributions
 
